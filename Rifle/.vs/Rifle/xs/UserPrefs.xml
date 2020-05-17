@@ -1,41 +1,18 @@
 ﻿<Properties StartupConfiguration="{3FA5E302-F95E-4BBA-66D7-24265F0994C9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/#Scripts/Game/Spawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/#Scripts/MapGenerator/MapGenerator.cs">
     <Files>
       <File FileName="Assets/#Scripts/Game/UIController.cs" Line="57" Column="26" />
-      <File FileName="Assets/#Scripts/Game/GameController.cs" Line="68" Column="8" />
+      <File FileName="Assets/#Scripts/Game/GameController.cs" />
       <File FileName="Assets/#Scripts/Game/Spawner.cs" Line="91" Column="26" />
-      <File FileName="Assets/#Scripts/Game/Players.cs" Line="113" Column="39" />
-      <File FileName="Assets/#Scripts/Game/LivingEntity.cs" Line="50" Column="6" />
+      <File FileName="Assets/#Scripts/Game/Players.cs" />
+      <File FileName="Assets/#Scripts/Game/LivingEntity.cs" />
       <File FileName="Assets/#Scripts/MapGenerator/MapGenerator.cs" Line="233" Column="23" />
-      <File FileName="Assets/#Scripts/Game/HealthBar.cs" Line="42" Column="1" />
+      <File FileName="Assets/#Scripts/Game/HealthBar.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Rifle" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="#Scripts" expanded="True">
-                <Node name="Game" expanded="True">
-                  <Node name="Spawner.cs" selected="True" />
-                </Node>
-                <Node name="MapGenerator" expanded="True" />
-              </Node>
-              <Node name="Joystick Pack" expanded="True">
-                <Node name="Examples" expanded="True" />
-                <Node name="Scripts" expanded="True">
-                  <Node name="Base" expanded="True" />
-                  <Node name="Joysticks" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f2f1b24-0d8b-47bc-930d-4a590cbc1633" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ebd0af79-fb05-4dc5-ad47-c2ae9739ac0e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/jeong/DeadFlow/Rifle/Assets/Rifle/#Scripts/Game/Spawner.cs" relfile="Assets/Rifle/#Scripts/Game/Spawner.cs" line="46" column="1" />
